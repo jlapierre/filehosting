@@ -1,0 +1,25 @@
+{
+    "event": 
+    [
+        {
+            "Key": "timestamp",
+            "Value": "2019-05-02 15:23:50.0000000"
+        },
+        {
+            "Key": "deviceId",
+            "Value": "ddbc1bf5-096f-42c0-a771-bc3dca77ac71"
+        },
+        {
+            "Key": "messageId",
+            "Value": "7f316225-839a-4593-92b5-1812949279b3"
+        },
+        {
+            "Key": "temperature",
+            "Value": 31.0301639051317
+        },
+        {
+            "Key": "humidity",
+            "Value": 62.0791099602725
+        }
+    ]
+}
